@@ -1,6 +1,8 @@
+<h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
+
 <img align="center" src="https://miro.medium.com/v2/resize:fit:1000/1*1-qThLZr4SdLZKYlMpDiIA.png"/>
 
-<h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
+
 <h3 align="center">A passionate Software developer from India</h3>
 
 - 🔭 I’m currently working on **Python Skills**
